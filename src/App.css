@@ -1,0 +1,160 @@
+.d-flex-header{
+    flex-basis: 99%;
+}
+.d-flex-header-1{
+    flex-basis:99%;
+}
+.coloe-black{
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));
+    height: 45px;
+}
+.icon{
+    color:white;
+    font-size: 30px;
+    padding: 3px;
+    cursor: pointer;
+}
+.icon-1{
+    color: white;
+    padding: 5px;
+    border-radius: 50px;
+     z-index: 2;
+    font-size: 30px;
+    background-color: rgba(240, 248, 255, 0.185);
+    cursor: pointer;
+}
+.img-1{
+    width: 150px;
+    font-size: 30px;
+
+}
+h4{
+    color: red;
+    padding:8px;
+    border-radius: 100%;
+    margin-right: 10px;
+    font-size: 25px;
+    background-color: rgba(0, 0, 255, 0.436);
+
+}
+.form-lg{
+    border-radius: 50px;
+width: 550px;
+
+background-image: linear-gradient(90deg,rgb(45, 45, 46),rgba(2, 2, 2, 0.962));
+
+
+}
+.icon-2{
+    color: white;
+    font-size: 30px;
+   cursor: pointer;
+
+}
+.inpu-center{
+    width: 30px;
+  
+    border-style: none;
+    color: red;
+    position: absolute;
+    right: 35px;
+    top: -5px;
+    font-size: 20px;
+    z-index: 1;
+    background: none;
+
+}
+.d-flex-sidebar{
+    flex-basis: 20%;
+    transition: 0.5s;
+}
+.d-flex-sidebar-1{
+    flex-basis: 5%;
+    transition: 0.5s;
+}
+.bg-color-2{
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));  
+    overflow-x:hidden ;
+    overflow-y: scroll;
+    height: 600px;
+
+}
+.bg-color-2::-webkit-scrollbar{
+    width: 1px;
+}
+::-webkit-scrollbar{
+    width: 3px;
+}
+
+.bg-color-2 ul{
+    padding: 0px;
+}
+.bg-color-2 ul li{
+    color: white;
+    padding: 8px 5px;
+}
+.bg-color-2 ul li a{
+    color:white;
+    text-decoration:none;
+    
+}
+.icon-4{
+    
+font-size: 30px;
+border-radius: 50px;
+background-color: rgba(240, 248, 255, 0.185);
+padding: 4px;
+margin: 5px;
+}
+.d-flex-dashboard{
+    flex-basis: 80%;
+    transition: 0.5s;
+}
+.d-flex-dashboard-1{
+    flex-basis:95% ;
+    transition: 0.5s;
+}
+.black-par{
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));
+    height: 600px;
+    overflow-x:hidden ;
+    overflow-y: scroll;
+    
+}
+.btn-clear{
+    background-color:rgb(74, 72, 76);
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.card{
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));
+
+}
+.card-body{
+    height: 200px;
+}
+.bg-img-clear{
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.bg-img-down{
+
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));
+    height: 600px;
+    flex-basis:100%;
+}
+.d-flex-change{
+    background-image: linear-gradient(90deg,rgb(95, 93, 98),rgba(2, 2, 2, 0.962));
+    height: 600px;
+    
+
+}
+.d-image{
+    border-radius: 30px;
+}
